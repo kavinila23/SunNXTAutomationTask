@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="45689" started-at="2023-03-08T09:45:10Z" finished-at="2023-03-08T09:45:56Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="45689" started-at="2023-03-08T09:45:10Z" finished-at="2023-03-08T09:45:56Z">
+      <class name="org.test.TestAutomation">
+        <test-method status="PASS" signature="start()[pri:0, instance:org.test.TestAutomation@204f30ec]" name="start" is-config="true" duration-ms="110" started-at="2023-03-08T09:45:10Z" finished-at="2023-03-08T09:45:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- start -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:org.test.TestAutomation@204f30ec]" name="setUp" is-config="true" duration-ms="3165" started-at="2023-03-08T09:45:10Z" finished-at="2023-03-08T09:45:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="testSignUp()[pri:1, instance:org.test.TestAutomation@204f30ec]" name="testSignUp" duration-ms="1572" started-at="2023-03-08T09:45:14Z" finished-at="2023-03-08T09:45:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSignUp -->
+        <test-method status="PASS" signature="tearDown(org.testng.ITestResult)[pri:0, instance:org.test.TestAutomation@204f30ec]" name="tearDown" is-config="true" duration-ms="1217" started-at="2023-03-08T09:45:15Z" finished-at="2023-03-08T09:45:16Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=testSignUp status=SUCCESS method=TestAutomation.testSignUp()[pri:1, instance:org.test.TestAutomation@204f30ec] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:org.test.TestAutomation@204f30ec]" name="setUp" is-config="true" duration-ms="2404" started-at="2023-03-08T09:45:16Z" finished-at="2023-03-08T09:45:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="testLogin()[pri:2, instance:org.test.TestAutomation@204f30ec]" name="testLogin" duration-ms="3593" started-at="2023-03-08T09:45:19Z" finished-at="2023-03-08T09:45:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLogin -->
+        <test-method status="PASS" signature="tearDown(org.testng.ITestResult)[pri:0, instance:org.test.TestAutomation@204f30ec]" name="tearDown" is-config="true" duration-ms="805" started-at="2023-03-08T09:45:22Z" finished-at="2023-03-08T09:45:23Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=testLogin status=SUCCESS method=TestAutomation.testLogin()[pri:2, instance:org.test.TestAutomation@204f30ec] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:org.test.TestAutomation@204f30ec]" name="setUp" is-config="true" duration-ms="3342" started-at="2023-03-08T09:45:23Z" finished-at="2023-03-08T09:45:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="testHomeMenuOptions()[pri:3, instance:org.test.TestAutomation@204f30ec]" name="testHomeMenuOptions" duration-ms="16561" started-at="2023-03-08T09:45:27Z" finished-at="2023-03-08T09:45:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testHomeMenuOptions -->
+        <test-method status="PASS" signature="tearDown(org.testng.ITestResult)[pri:0, instance:org.test.TestAutomation@204f30ec]" name="tearDown" is-config="true" duration-ms="1550" started-at="2023-03-08T09:45:43Z" finished-at="2023-03-08T09:45:45Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=testHomeMenuOptions status=SUCCESS method=TestAutomation.testHomeMenuOptions()[pri:3, instance:org.test.TestAutomation@204f30ec] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:org.test.TestAutomation@204f30ec]" name="setUp" is-config="true" duration-ms="3097" started-at="2023-03-08T09:45:45Z" finished-at="2023-03-08T09:45:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="testLanguage()[pri:4, instance:org.test.TestAutomation@204f30ec]" name="testLanguage" duration-ms="470" started-at="2023-03-08T09:45:48Z" finished-at="2023-03-08T09:45:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLanguage -->
+        <test-method status="PASS" signature="tearDown(org.testng.ITestResult)[pri:0, instance:org.test.TestAutomation@204f30ec]" name="tearDown" is-config="true" duration-ms="1269" started-at="2023-03-08T09:45:48Z" finished-at="2023-03-08T09:45:50Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=testLanguage status=SUCCESS method=TestAutomation.testLanguage()[pri:4, instance:org.test.TestAutomation@204f30ec] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:org.test.TestAutomation@204f30ec]" name="setUp" is-config="true" duration-ms="2726" started-at="2023-03-08T09:45:50Z" finished-at="2023-03-08T09:45:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="testChannelListEachLanguage()[pri:5, instance:org.test.TestAutomation@204f30ec]" name="testChannelListEachLanguage" duration-ms="2448" started-at="2023-03-08T09:45:52Z" finished-at="2023-03-08T09:45:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testChannelListEachLanguage -->
+        <test-method status="PASS" signature="tearDown(org.testng.ITestResult)[pri:0, instance:org.test.TestAutomation@204f30ec]" name="tearDown" is-config="true" duration-ms="1173" started-at="2023-03-08T09:45:55Z" finished-at="2023-03-08T09:45:56Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=testChannelListEachLanguage status=SUCCESS method=TestAutomation.testChannelListEachLanguage()[pri:5, instance:org.test.TestAutomation@204f30ec] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="end()[pri:0, instance:org.test.TestAutomation@204f30ec]" name="end" is-config="true" duration-ms="164" started-at="2023-03-08T09:45:56Z" finished-at="2023-03-08T09:45:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- end -->
+      </class> <!-- org.test.TestAutomation -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
